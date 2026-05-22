@@ -1,0 +1,5 @@
+# print statment
+print("Hello, world!")
+print("my name is abirami")
+print("I love drawing")
+print("7 + 8 =",7 + 8)
